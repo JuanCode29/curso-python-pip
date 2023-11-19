@@ -3,8 +3,8 @@
 
 Este es un simple juego de Piedra, Papel o Tijera implementado en Python.
 
-```
 # Estructura del Proyecto:
+```
 - `game/`: Carpeta principal del juego
   - `main.py`: Archivo principal del juego
 ```
@@ -26,10 +26,8 @@ Este es un simple juego de Piedra, Papel o Tijera implementado en Python.
     ```sh
     python3 main.py
     ```
-
-```
 ## Notas Adicionales
-
+```
 - El juego sigue las reglas estándar de Piedra, Papel o Tijera.
 - ¡Diviértete jugando!
 ```
